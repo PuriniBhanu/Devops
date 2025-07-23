@@ -1,0 +1,20 @@
+Task1 :
+	mkdir my_folder/
+	cd my_folder/
+    touch my_file.txt
+	touch my_file.txt
+	cat > another_file.txt
+	#//add the content//
+	cat  another_file.txt >> my_file.txt
+	ls or ll
+	
+Task2 :
+	touch file{1..20}.txt
+	ls -lrt | tail -n 5
+	mv  file13.txt  file13.yml
+	mv  file12.txt  file12.yml
+	mv  file11.txt  file11.yml
+	mv  file10.txt  file10.yml
+	mv  file1.txt  file1.yml
+	ll
+	ls -lrt | tail -n 5
